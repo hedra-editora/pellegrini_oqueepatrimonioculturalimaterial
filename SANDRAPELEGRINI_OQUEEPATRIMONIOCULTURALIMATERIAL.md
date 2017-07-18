@@ -70,10 +70,8 @@ Trata-se de um projeto ambicioso que, sem dúvida, propõe indagações
 que deverão ser retomadas em outras oportunidades. Todavia, a gama
 variada de problemas e hipóteses levantados no presente estudo nos
 levou a recorrer a documentos internacionais e nacionais de natureza
-distinta: decla-
-rações promulgadas no âmbito europeu e latino-americano (cartas
-patrimoniais); certidões, registros e pareceres do Instituto do
-Patrimônio Histórico e Artístico Nacional (Iphan); decretos-leis e à
+distinta: declarações promulgadas no âmbito europeu e latino-americano (cartas patrimoniais); certidões, registros e pareceres do Instituto do
+Patrimônio Histórico e Artístico Nacional (IPHAN); decretos-leis e à
 própria Constituição da República Federativa do Brasil, além de
 matérias jornalísticas sobre o assunto. Esperamos assim propiciar uma
 leitura estimulante e esclarecedora.
@@ -94,7 +92,6 @@ Essa palavra é das mais antigas, sendo usada em latim, há mais de dois
 mil anos, para designar o cultivo da terra (de onde deriva o termo
 “agricultura”). O sentido é bastante concreto: plantar, cuidar da
 plantação, colher, tudo isso faz parte da cultura.
-
 Em latim, essa terminação – *ura* – era usada para a criação de
 substantivos a partir de um verbo de ação. Temos ainda este processo
 de formação de palavras ainda muito ativo em nossa própria língua. Do
@@ -102,8 +99,7 @@ verbo “desenvolver”, surge o substantivo “desenvoltura”, que designa
 não uma única ação, mas uma série delas. Isso significa que, na origem
 da cultura, não havia apenas uma única ação concreta, mas várias.
 Embora sejam ações práticas, elas se revestem, desde o início, de um
-caráter subjetivo: *colere* significava cultivar, mas também cul-
-tuar (os deuses). Não por acaso, a raiz da palavra é a mesma do nosso
+caráter subjetivo: *colere* significava cultivar, mas também cultuar (os deuses). Não por acaso, a raiz da palavra é a mesma do nosso
 “colo”: algo circular (como o pescoço, colo), que tudo pode englobar
 (por ser circular), e que nos toca os sentimentos, por meio de ações
 físicas concretas.
@@ -117,8 +113,7 @@ consigo mesmo é que o levava a cultivar-se a si mesmo, como se fosse
 um campo a ser trabalhado. Para que isso fosse possível, era
 necessária uma ação exterior: a leitura dos livros, mas também o
 aprendizado oral, e pela imitação dos grandes gestos e ações (no
-sentido literal e figura-
-do). Um contemporâneo de Cícero, Salústio, lembrava que os antigos
+sentido literal e figurado). Um contemporâneo de Cícero, Salústio, lembrava que os antigos
 ao verem estátuas de cera de seus antepassados eram levados a
 segui-las como exemplos. Como em tantas outras esferas, após
 estabelecido um conceito, ele se metamorfoseia e se transforma. Às
@@ -139,12 +134,9 @@ contrário de outras línguas derivadas do latim, como o francês e o
 português, em alemão *Kultur* não significa nada em si: não lembra o
 cultivo da terra, nem o culto religioso. Tornou-se, por isso mesmo,
 uma palavra eruditíssima voltada para descrever, não se sabia bem o
-quê. Como afirmava
-
-Herder, ao final do século XVIII, “nada é mais indeterminado do que
+quê. Como afirmava Herder, ao final do século XVIII, “nada é mais indeterminado do que
 a palavra cultura”. Herder diferenciou a civilização das elites da
-cultura, que seria espontânea, dotada de simplicidade natural, aven-
-tando a possibilidade de interpretação para o que viria a ser
+cultura, que seria espontânea, dotada de simplicidade natural, aventando a possibilidade de interpretação para o que viria a ser
 reconhecido como folclore. Estava aberto o caminho para a miríade de
 sentidos que se desenvolveram nos últimos dois séculos. Em um caso
 muito sintomático, o italiano adotou duas grafias para se referir ao
@@ -154,8 +146,7 @@ conceito, enobrecido por sua adoção em alemão.
 
 O século XIX foi o grande propulsor do nacionalismo e não se pode
 separar a cultura da construção dos estados nacionais. A partir da
-Revolução Francesa, no final do século XVIII, os antigos orde-
-namentos de origem feudal entram em crise. Os estados, baseados na
+Revolução Francesa, no final do século XVIII, os antigos ordenamentos de origem feudal entram em crise. Os estados, baseados na
 fidelidade ao rei de direito divino, são superados por um novo tipo
 de formação estatal: a nação. Sem rei para unificar os súditos,
 partia-se do compartilhamento de um território, língua e origem
@@ -164,7 +155,7 @@ territoriais, linguísticas e étnicas. Houve casos extremos. A Itália
 fora criada como nação sem que seus habitantes soubessem a língua
 italiana (conhecida por 5% da população). Como se disse à época:
 criada a Itália, é necessário
-criar os italianos (Massimo D´Azeglio: *fatta l´Italia, facciamo gli
+criar os italianos (Massimo D'Azeglio: *fatta l'Italia, facciamo gli
 italiani*).
 
 Para isso, era necessário difundir, por meio da escola, valores como a
@@ -172,8 +163,7 @@ língua nacional e as supostas origens comuns. Aí, reaparece a cultura.
 Por um lado, o termo era reservado ao sentido nobre, para se referir
 ao mundo das letras. Por outro, havia que se forjar o que seriam os
 costumes ancestrais de um povo, dos analfabetos camponeses. Os
-ingleses, para não empobrecer a palavra *culture*, recorreram ao ter-
-mo *lore* para criar o *folklore*: literalmente, os costumes das
+ingleses, para não empobrecer a palavra *culture*, recorreram ao termo *lore* para criar o *folklore*: literalmente, os costumes das
 pessoas (este é o sentido de *folk*, em inglês, uma palavra bem
 pedestre e um pouco depreciativa). Já os alemães preferiram manter a
 palavra cultura e diferenciar a “Alta” da “Baixa” cultura: aquela
@@ -188,8 +178,7 @@ que seja cultura).
 
 Cultura, do ponto de vista da organização das ciências, é um conceito
 antropológico, antes de ser histórico, filosófico ou linguístico. É a
-única discipli-
-na acadêmica que assim se define: “A Antropologia quer ser a ciência
+única disciplina acadêmica que assim se define: “A Antropologia quer ser a ciência
 das culturas de toda a Humanidade”, como definia Jean-Marie Auzias
 na década de 1970. Hoje, Marc Auge e Jean-Paul Collegyn confirmam e
 acrescentam algo: “Quando se fala em Antropologia, entende-se a
@@ -210,14 +199,13 @@ Latina, ocasionaria o desenvolvimento de uma nova disciplina que
 pudesse entender (e dominar) esses outros povos. Enquanto a História
 estudava o passado de nós mesmos (os conquistadores europeus e
 americanos) e a nascente Sociologia voltava-se para o estudo do
-funcionamen-
-to das nossas sociedades, a Antropologia surgiu para estudar o outro:
+funcionamento das nossas sociedades, a Antropologia surgiu para estudar o outro:
 a cultura dos outros. O contato íntimo com a diferença explica o
 interesse em entender como as pessoas agem em diversos lugares e
 períodos. O que diferencia o homem de animais aparentados, como os
 símios? Roque de Barros Laraia descreve bem essa questão:
 
-Acompanhando o desenvolvimento de uma criança humana e de uma
+>Acompanhando o desenvolvimento de uma criança humana e de uma
 criança chimpanzé até o primeiro ano de vida, não se nota muita
 diferença: ambas são capazes de aprender, mais ou menos, as mesmas
 coisas. Mas quando a criança começa a aprender a falar, coisa que o
@@ -242,12 +230,12 @@ com precisão: “Quase se pode dizer que o hábito ou o costume é que é,
 no homem, a natureza humana”. Uma definição mais recente, de Christoph
 Brumann, parece ser bastante abrangente:
 
-A cultura é o conjunto de padrões adquiridos socialmente a partir dos
+>A cultura é o conjunto de padrões adquiridos socialmente a partir dos
 quais as pessoas pensam, sentem e fazem. Uma cultura não requer
 proximidade física ou um tipo específico de sociabilidade direta
 (*Gemeinschaft*), apenas interação social, mesmo que mediada por meios
 de comunicação e que seja casual. Mesmo ver, ouvir ou ler uns aos
-outros pode ser o suficiente (1999, p. S23).
+outros pode ser o suficiente (1999, p. 523).
 
 O veterano antropólogo norte-americano, Marshall Sahlins, em
 entrevista na segunda metade da década dos anos 2000, chegou a afirmar
@@ -266,8 +254,7 @@ possível, de si mesmo e tenta conviver à maneira do povo estudado.
 Deve, pois, aprender sua língua, sua maneira de comer, brincar,
 chorar, fazer as necessidades ou, até mesmo, algo tão simples como
 dormir. Para alguém acostumado a dormir sozinho em uma cama, dormir
-com outra pessoa em uma rede (nus) é uma experiência a ser bem apren-
-dida. Assim como tudo.
+com outra pessoa em uma rede (nus) é uma experiência a ser bem aprendida. Assim como tudo.
 
 Essas preocupações foram e continuam a ser muito importantes, para que
 possamos experimentar e entender as expressões culturais. Contudo,
@@ -277,8 +264,7 @@ herança que se possa transmitir de geração a geração. Ela é uma
 produção histórica, como parte das relações entre os grupos
 sociais. Assim, ao estudo das diferenças entre nós, que comemos com
 garfo e faca, e os japoneses que comem com pauzinhos, sobreveio a
-constata-
-ção de que nossos antepassados só adotaram os garfos e as facas há
+constatação de que nossos antepassados só adotaram os garfos e as facas há
 alguns séculos. Antes, comiam com as mãos. A equação nós/eles no
 presente foi complementada pela consciência da importância das
 mudanças, aquilo que também se costuma chamar de dinâmica cultural.
@@ -295,8 +281,7 @@ come, também, com a mão, mas com a ajuda do pão sírio. São também
 brasileiros, de origem libanesa. Temos, pois, três maneiras de comer,
 todas contemporâneas, todas da “cultura brasileira”. Como lembrou
 Marc Auge, “o ser humano não pode ser, em nenhum caso, por uma só e
-única pertença cultural”. A dicotomia original nós/eles mul-
-tiplica-se e torna-se histórica, pois são os avatares da História que
+única pertença cultural”. A dicotomia original nós/eles multiplica-se e torna-se histórica, pois são os avatares da História que
 explicam tais diferenças.
 
 #A diversidade cultural
@@ -305,9 +290,9 @@ O avanço da industrialização e dos meios de comunicação de massa criou
 as condições para o que se denominou globalização ou mundialização. Em
 especial, na década de 1960, formulou-se a hipótese de uma
 homogeneização cultural inexorável da humanidade. Contudo, como
-ressalta JeanPierre Warnier:
+ressalta Jean-Pierre Warnier:
 
-A modernização dos últimos quarenta anos não produziu a convergência
+>A modernização dos últimos quarenta anos não produziu a convergência
 esperada. Mais do que isso: tomou-se consciência de que a humanidade
 está, de forma inerente, fadada a produzir clivagens sociais, de não
 sei quantos grupos, de distinção cultural, de modos de vida e de
@@ -326,8 +311,7 @@ os contrastes religiosos e políticos. No âmbito externo, os
 colonizados se revoltaram contra os colonizadores. A diversidade
 surgiu como uma categoria para explicar essas divergências, de caráter
 a um só tempo cultural e político. Nesse contexto, as forças que
-supostamente levariam à homogeneização cultural da humanidade servi-
-ram, a seu modo, para demarcar as diferenças. O caso da televisão é
+supostamente levariam à homogeneização cultural da humanidade serviram, a seu modo, para demarcar as diferenças. O caso da televisão é
 claro: por um lado, seriados americanos que passam em todo o mundo e
 difundem certos valores “universais”; por outro, um potente difusor
 das particularidades. Em meio a tantos programas importados, nunca
@@ -346,7 +330,7 @@ eclosão das reivindicações do reconhecimento do valor de identidades
 sociais e, portanto, da contestação dos conceitos de cultura
 monolítica e homogênea. Partindo do pressuposto de que as pessoas de
 um mesmo grupo compartilham valores, de que se sentem partícipes,
-formulouse o conceito normativo de “pertencimento” (*belonging*).
+formulou-se o conceito normativo de “pertencimento” (*belonging*).
 Essas abordagens foram chamadas de normativas por pressuporem que as
 pessoas aceitam normas de conduta do grupo humano do qual fazem
 parte. O desrespeito às normas é considerado, em geral, desvio de
@@ -359,8 +343,7 @@ são orgulhosos de sua nação e adoram carne. Os alemães que são
 desorganizados e não comem batatas representam desvios, como os
 argentinos que não valorizam seu país e são vegetarianos. Voltemo-nos,
 agora, para coletivos reduzidos. Os palmeirenses são descendentes de
-ita-
-lianos e sabem o hino do clube de cor. Os ecologistas não fumam e só
+italianos e sabem o hino do clube de cor. Os ecologistas não fumam e só
 falam em ecologia. Em todos estes casos, os modelos normativos
 consideram as miríades de exemplos que contradizem os enunciados
 como falha de pertencimento e, portanto, como desvios que apenas
@@ -383,8 +366,7 @@ Os pertencimentos são múltiplos também.
 
 A diversidade cultural não pode ser desvencilhada também da noção de
 diversidade da vida. A genética das populações humanas descobriu que
-os gru-
-pos humanos não são unidades biológicas. As diferenças genéticas são
+os grupos humanos não são unidades biológicas. As diferenças genéticas são
 tão grandes de uma tribo a outra quanto de uma aldeia a outra de uma
 mesma tribo. A luta contra o racismo e todo tipo de discriminação
 foi combatida a partir da valorização da diversidade biológica. Não
@@ -392,7 +374,7 @@ foi combatida a partir da valorização da diversidade biológica. Não
 documento para essa entidade internacional sobre “raça”, propugnou
 pela preservação dessa variabilidade:
 
-Não se pode dissimular que, a despeito de sua urgente necessidade
+>Não se pode dissimular que, a despeito de sua urgente necessidade
 prática e dos objetivos morais elevados que ela se impõe, a luta
 contra todas as formas de discriminação participa desse mesmo
 movimento que leva a humanidade em direção a uma civilização mundial,
@@ -408,8 +390,7 @@ patrimônio cultural imaterial em detalhe.
 
 A disjunção entre a matéria e o espírito tem raízes profundas, como
 já vimos, pois Cícero já separava a cultura do solo da cultura da
-alma. Seria apenas modernamente, contudo, que surgiria essa contrapo-
-sição entre materialidade e imaterialidade, assim como suas
+alma. Seria apenas modernamente, contudo, que surgiria essa contraposição entre materialidade e imaterialidade, assim como suas
 definições. A noção de matéria na base dessa contraposição está na
 palavra latina *materies* ou *matéria*: trata-se da substantivação da
 mãe (*mater*). Passou a designar algo bem concreto: a madeira (que a
@@ -420,14 +401,14 @@ apropriado pelas sociedades humanas. Estão incluídos não apenas o que
 o ser humano produz, na forma de artefatos, como tudo o que ele
 transforma no decorrer do tempo. Como já observara Karl Marx:
 
-Animais e plantas, que se costumam considerar como produtos naturais
+>Animais e plantas, que se costumam considerar como produtos naturais
 são, não apenas produtos do trabalho – talvez do trabalho do ano
 anterior – mas, igualmente, na sua forma atual, produtos de uma
 transformação contínua, sob o controle humano e por meio do seu
 trabalho, por muitas gerações (apud Funari, 2003, p. 14).
 
 Dessa forma, fica claro que mesmo a “natureza” é o resultado do
-trabalho humano e apresentase como cultura material. O que seria,
+trabalho humano e apresenta-se como cultura material. O que seria,
 então, o imaterial? A expressão inglesa ajuda-nos a compreender o
 que se quer dizer com isso: intangível (*intangible*). Usaram-se,
 anteriormente, expressões que podiam gerar discussões até mesmo de
@@ -486,13 +467,11 @@ pelos dominantes. Tolina Loulanski ressaltou, em artigo da segunda
 metade da década de 2000, que houve uma passagem dos monumentos para
 as pessoas:
 
-Com a democratização da cultura e sua definição socioantropológica
+>Com a democratização da cultura e sua definição socioantropológica
 expandida (segundo a qual quase qualquer atividade humana pode ser
 igualmente cultura, e onde todo produto humano pode ser, da mesma
 maneira, digno de preservação), a distância entre o patrimônio
-cultural como *monu-*
-
-*mentos* e as *pessoas* como suas criadoras, guardiãs e usuárias foi
+cultural como *monumentos* e as *pessoas* como suas criadoras, guardiãs e usuárias foi
 muito reduzida (2006, p. 213).
 
 O patrimônio, antes restrito ao excepcional, aproximou-se, cada vez
@@ -507,7 +486,7 @@ os estudiosos se voltam para “as energias e correntes não europeias,
 descolonizadas, descentradas, de relações de gênero de nossa época”(
 2007, p. 23).
 
-#A UNESCO e a salvaguarda da cultura tradicional e popular
+#A Unesco e a salvaguarda da cultura tradicional e popular
 
 A valorização do patrimônio imaterial na atualidade advém, portanto,
 das alterações sofridas pelas acepções do conceito de cultura e
@@ -522,8 +501,7 @@ sociais.
 
 A identificação do patrimônio histórico, cultural, paisagístico e
 natural da humanidade vem sendo realizada desde longa data, todavia
-foi efetuada de forma sistemática a partir da década de 1930, quan-
-do alguns estudiosos preocupados com o crescimento urbano se deram
+foi efetuada de forma sistemática a partir da década de 1930, quando alguns estudiosos preocupados com o crescimento urbano se deram
 conta da urgência de refletirem com profundidade sobre as reformas que
 se intensificavam em várias partes do mundo e, como tal, traziam à
 tona tanto a questão da necessidade de se preservar ou não
@@ -546,19 +524,15 @@ Informação.
 Mas nem todos os países do mundo aderiram às proposições da Unesco.
 Desde a sua criação até a atualidade, a organização reuniu vários
 estados visando a intermediar conflitos e evitar confrontos bélicos
-tão impactantes quanto a Segunda Guerra
-
-Mundial (1939-1945). Em 1972, a Unesco conseguiu mobilizar cerca de
+tão impactantes quanto a Segunda Guerra Mundial (1939-1945). Em 1972, a Unesco conseguiu mobilizar cerca de
 148 países em torno de um abrangente pacto em prol dos bens culturais
-e naturais da humanidade – “Convenção do Patrimônio Mundial*”.*
+e naturais da humanidade – “Convenção do Patrimônio Mundial”.
 
 A cada dois anos, a Unesco realiza uma Conferência Geral com o
 objetivo de debater e deliberar sobre temas internacionais
-candentes. Para tanto, mobiliza especialistas nas áreas de conheci-
-mento que são de sua competência, desenvolve pesquisas e procura
+candentes. Para tanto, mobiliza especialistas nas áreas de conhecimento que são de sua competência, desenvolve pesquisas e procura
 estabelecer contato com autoridades políticas de todo o planeta. O
-principal intuito está centralizado na tentativa de se antecipar dian-
-te dos problemas capitais em relação às sociedades humanas. Até o
+principal intuito está centralizado na tentativa de se antecipar diante dos problemas capitais em relação às sociedades humanas. Até o
 início do século XXI, o órgão conseguiu a adesão de 190 países – um
 número expressivo de signatários.
 
@@ -570,8 +544,7 @@ adotadas por vários países. Nesses termos, podemos afirmar que a
 “Carta de Haia”, assinada em maio de 1954, representa um marco na
 trajetória desse órgão, uma vez que propôs medidas para proteção de
 bens culturais em caso de conflito armado, num período muito
-conturbado das rela-
-ções internacionais e conhecido como “Guerra Fria”. A contraposição
+conturbado das relações internacionais e conhecido como “Guerra Fria”. A contraposição
 entre o mundo capitalista ocidental, a União Soviética e os países da
 Europa Oriental viria a afetar as discussões sobre o patrimônio, no
 cenário internacional. Contudo, a proteção aos bens culturais ainda
@@ -593,8 +566,7 @@ viabilizou uma expansão dos bens culturais a serem reconhecidos.
 Contudo, o questionamento das formas de poder emergente nos anos de
 1960 abriu brechas para a manifestação de valores identitários, antes
 subjugados, e trouxe à tona referenciais culturais anteriormente
-incógnitos. Tais indagações compeli-
-ram várias áreas do conhecimento a também repensarem seus
+incógnitos. Tais indagações compeliram várias áreas do conhecimento a também repensarem seus
 paradigmas.
 
 A contestação de toda e qualquer forma de autoridade, as utopias por
@@ -636,23 +608,21 @@ atribuída às relações entre a cultura e a identidade dos povos.
 #As identidades e as políticas preservacionistas
 
 O tratamento dispensado à questão da identidade no documento síntese
-da “Conferência Mundial sobre as Políticas Culturais” (1982), organi-
-zado pelo Conselho Internacional de Monumentos e Sítios (Icomos), foi
+da “Conferência Mundial sobre as Políticas Culturais” (1982), organizado pelo Conselho Internacional de Monumentos e Sítios (Icomos), foi
 singular, pois sugeriu outra possibilidade de interpretação das
 políticas de salvaguarda e destacou que “todas as culturas”
 integravam o “patrimônio comum da humanidade” e se locupletavam
 mutuamente. Ademais, definia a “identidade cultural” nos seguintes
 termos:
 
-\[...\] é uma riqueza que dinamiza as possibilidades de realização da
+>[...] é uma riqueza que dinamiza as possibilidades de realização da
 espécie humana ao mobilizar cada povo e cada grupo a nutrir-se de seu
 passado e a colher as contribuições externas compatíveis com a sua
 especificidade e continuar, assim, o processo de sua própria criação
 (Conferência Mundial sobre as Políticas Culturais, 1982).
 
 Nessa linha de argumentação, os membros da conferência afirmavam
-categoricamente que a “identidade” e a “diversidade” eram “indissociá-
-veis”, sendo essa última reconhecida como a “essência” do “pluralismo
+categoricamente que a “identidade” e a “diversidade” eram “indissociáveis”, sendo essa última reconhecida como a “essência” do “pluralismo
 cultural” – fundamental para “o reconhecimento de múltiplas
 identidades culturais onde coexistissem diversas tradições”. Destarte,
 reclamavam a implementação de “políticas culturais” que protegessem,
@@ -701,7 +671,7 @@ profícua reflexão sobre o próprio conceito de cultura, sua
 aproximação dos estudos antropológicos e dos direitos culturais, haja
 vista que suas proposições embasaram-se na seguinte conceituação:
 
-A cultura tradicional e popular é o *conjunto de criações que emanam
+>A cultura tradicional e popular é o *conjunto de criações que emanam
 de uma comunidade cultural fundadas na tradição*, expressadas por um
 grupo ou por indivíduos e que reconhecidamente correspondem às
 expectativas da comunidade como *expressão de sua identidade cultural
@@ -730,8 +700,7 @@ relativa às tradições da cultura tradicional e popular devia
 privilegiar a percepção, se tais práticas continuavam ou não sendo
 utilizadas ou se haviam passado por transformações. Em outros
 termos, esse cuidado implicava o registro de dados que poderiam estar
-disponíveis tanto a futuros pesquisadores quanto aos próprios portado-
-res de tradições, para que ambos pudessem compreender o processo de
+disponíveis tanto a futuros pesquisadores quanto aos próprios portadores de tradições, para que ambos pudessem compreender o processo de
 modificação dos seus próprios referenciais culturais, uma vez que a
 cultura tradicional e popular mantinha-se viva e, do ponto de vista
 dos conferencistas, possuía um “caráter evolutivo” que nem sempre
@@ -747,8 +716,7 @@ XXI.
 
 Tal alarido decorre do reconhecimento de que um dos princípios
 fundadores da cultura reside na sua dinâmica e vitalidade. A suspeição
-quanto à validade dos registros da cultura ou das expressões cul-
-turais populares assenta-se, portanto, na ideia de que seja
+quanto à validade dos registros da cultura ou das expressões culturais populares assenta-se, portanto, na ideia de que seja
 considerado inoportuno defini-la como um conjunto preciso de
 elementos que se mantêm intactos, uma vez que seus usos e sentidos
 incorporam significados ao longo do tempo. Entretanto, essas
@@ -790,8 +758,7 @@ A resposta a essa indagação nos leva, por um lado, a retomar os
 objetivos dessa instituição reconhecida como um dos órgãos
 internacionais que tem adquirido maior expressão na esfera das
 políticas de proteção patrimonial. E, por outro, a verificar se o
-etnocentrismo norteou as políticas públicas patri-
-moniais. Tal hipótese poderá ser identificada ou não nas construções
+etnocentrismo norteou as políticas públicas patrimoniais. Tal hipótese poderá ser identificada ou não nas construções
 discursivas que regem os princípios da Unesco e de outros órgãos
 internacionais devotados à proteção patrimonial. Nesse sentido,
 cabe-nos refletir um pouco mais detidamente sobre as duas principais
@@ -811,20 +778,19 @@ técnicos e metodológicos para os Estados membros visando embasar os
 rumos de seu desenvolvimento.
 
 No que tange às políticas preservacionistas – conforme já comentamos –
-a “Convenção do Patrimônio” (1972) voltou-se à identificação, prote-
-ção e preservação do patrimônio material da humanidade
+a “Convenção do Patrimônio” (1972) voltou-se à identificação, proteção e preservação do patrimônio material da humanidade
 (arqueológico, artístico, edificado, natural e
 paisagístico). Desde então, essa convenção vem fundamentando os
 principais instrumentos das políticas públicas de proteção aos bens
 patrimoniais.
 
-A“Convenção para a Salvaguarda do Patrimônio Imaterial”– formulada em
+A “Convenção para a Salvaguarda do Patrimônio Imaterial”– formulada em
 2003 – dedicou-se, exclusivamente, à problemática que envolve o
 patrimônio cultural imaterial. Assim, no primeiro parágrafo do artigo
 segundo desse documento, o patrimônio imaterial ou intangível foi
 alcunhado como:
 
-\[...\] práticas, representações, expressões, conhecimentos e
+>[...] práticas, representações, expressões, conhecimentos e
 técnicas - junto com os instrumentos, objetos, artefatos e lugares
 culturais que lhes são associados - que as comunidades, os grupos e,
 em alguns casos, os indivíduos reconhecem como parte integrante de seu
@@ -836,8 +802,7 @@ geração é conceituado a partir da perspectiva da alteridade. Ele é
 considerado alvo de constantes “recriações” decorrentes das mutações
 entre as comunidades e os grupos que convivem num dado espaço social,
 do meio ambiente, das interações com a natureza e da própria
-história dessas populações – aspectos funda-
-mentais para o enraizamento ou o sentido de pertença que favorece “o
+história dessas populações – aspectos fundamentais para o enraizamento ou o sentido de pertença que favorece “o
 respeito à diversidade cultural e à criatividade humana”.
 
 Evidentemente, esse “pacto internacional” ratificou a “Recomendação
@@ -865,16 +830,20 @@ Ainda que esse documento não tenha explicitado claramente os
 critérios para o reconhecimento do patrimônio imaterial, apontou
 indícios no sentido de o acautelamento de bens dessa natureza
 tornar-se “compatível com os instrumentos internacionais de direitos
-humanos existentes e com os imperativos de respeito mútuo entre comu-
-nidades, grupos e indivíduos, e do desenvolvimento sustentável”.
+humanos existentes e com os imperativos de respeito mútuo entre comunidades, grupos e indivíduos, e do desenvolvimento sustentável”.
 Propôs, no parágrafo segundo, do artigo segundo, que o patrimônio
 intangível se manifestava, em particular, nos seguintes campos:
-a)  tradições e expressões orais, incluindo o idioma como veículo do
+
+>a)  tradições e expressões orais, incluindo o idioma como veículo do
 patrimônio cultural imaterial;
-b)  expressões artísticas;
-c)  práticas sociais, rituais e atos festivos;
-d)  conhecimentos e práticas relacionados à natureza e ao universo;
-e)  técnicas artesanais tradicionais (Convenção para a Salvaguarda do
+
+>b)  expressões artísticas;
+
+>c)  práticas sociais, rituais e atos festivos;
+
+>d)  conhecimentos e práticas relacionados à natureza e ao universo;
+
+>e)  técnicas artesanais tradicionais (Convenção para a Salvaguarda do
 Patrimônio Imaterial, 2003, p. 1).
 
 Por essa via, recomendava a adoção de medidas aplicadas à
@@ -890,8 +859,7 @@ Imaterial”, constituído por Estados membros da Unesco, eleitos em
 Assembleia Geral da organização. Mohamed Bedjaui, da Argélia, foi o
 primeiro presidente desse comitê que contou com a colaboração de O.
 Faruk Logoglu, da Turquia, e quatro vice-presidentes oriundos do
-Brasil, Etiópia, Índia e Romênia. Entre os demais países que inte-
-gram o comitê, constavam representantes da Bélgica, Bulgária, China,
+Brasil, Etiópia, Índia e Romênia. Entre os demais países que integram o comitê, constavam representantes da Bélgica, Bulgária, China,
 Emirados Árabes Unidos, Estônia, Gabão, Hungria, Japão, México,
 Nigéria, Peru, Senegal, Vietnã, Madagáscar, Albânia, Zâmbia,
 Armênia, Zimbábue, Camboja, Macedônia, Marrocos, França e Costa do
@@ -901,24 +869,21 @@ Por seu turno, a “Convenção do Patrimônio” (1972) prescreveu sem
 subterfúgios e de forma direta os principais critérios norteadores
 da seleção dos bens culturais e naturais na Lista do Patrimônio
 Mundial. Entre os quesitos necessários à inclusão nessa lista,
-destacou a excepcionalidade, a antigui-
-dade do bem e sua característica como “obra notável do gênio
+destacou a excepcionalidade, a antiguidade do bem e sua característica como “obra notável do gênio
 criativo humano”. A convenção também determinou que esses bens
 deviam
 
-\[...\] constituir (...) manifestação de um intercâmbio considerável
+>[...] constituir (...) manifestação de um intercâmbio considerável
 de valores humanos durante um determinado período ou em uma área
 cultural específica ou; contribuir com “um testemunho único ou pelo
 menos excepcional de uma tradição cultural ou de uma civilização
 existente ou já extinta” ou; “ser exemplo destacado de um tipo de
 construção, ou de conjunto arquitetônico, tecnológico ou paisagístico
-que ilustre uma ou mais etapas significativas da história da humani-
-dade” ou; constituir exemplo destacado de habitat, estabelecimento
+que ilustre uma ou mais etapas significativas da história da humanidade” ou; constituir exemplo destacado de habitat, estabelecimento
 humano tradicional ou de uso na região, que seja representativo de uma
 ou mais culturas (...) ou; estar associado direta ou indiretamente com
 acontecimentos ou tradições vivas, com ideias ou crenças, ou com obras
-artísticas ou literárias de excepcional valor universal \[...\]
-(Convenção do Patrimônio, 1972).
+artísticas ou literárias de excepcional valor universal (Convenção do Patrimônio, 1972).
 
 O documento ainda deixava explícito que o critério da autenticidade
 dos bens e a forma como eles estivessem sendo protegidos e
@@ -946,8 +911,7 @@ patrimoniais reconhecidos pela Unesco corrobora para reafirmar certa
 dicotomia cultural entre os povos “desenvolvidos” e os
 “subdesenvolvidos”? Se prevalece o reverenciamento dos monumentos
 das civilizações dominadoras, a ascendência dos interesses das
-grandes potên-
-cias mundiais e suas elites, qual o atual sentido atribuído à
+grandes potências mundiais e suas elites, qual o atual sentido atribuído à
 preservação dos bens imateriais, à oralidade e às tradições populares?
 
 #O reconhecimento da imaterialidade, das tradições e dos saberes
@@ -993,8 +957,7 @@ Se, como afirmamos anteriormente, a oralidade e os conhecimentos
 tradicionais tomados como
 expressões fundamentais na identificação cultural dos povos se
 tornaram alvo de reverência, discussão e proteção a partir de meados
-dos anos oitenta do século XX, os apontamentos decorrentes dos sim-
-pósios e das convenções firmados desde a década de 1990 viabilizaram o
+dos anos oitenta do século XX, os apontamentos decorrentes dos simpósios e das convenções firmados desde a década de 1990 viabilizaram o
 levantamento de uma listagem do primeiro “lote” de bens imateriais
 proclamados pela Unesco, em 2001. Contudo, esse arrolamento visou
 apenas a estimular a candidatura dos bens imateriais espalhados pelo
@@ -1014,75 +977,73 @@ Cidade Luz (Paris – França), em 17 de outubro de 2003.
 
 #As obras mestras do patrimônio oral e imaterial
 
-![](media/image7.png){width="2.3697331583552055in"
-height="1.4966666666666666in"}Ao observarmos o mapeamento dos bens
+Ao observarmos o mapeamento dos bens
 realizado pela própria Unesco, em especial o dos bens imateriais
 proclamados em 2003, vamos detectar que apenas quatro estavam
 vinculados diretamente à Europa, portanto, mais de 85% dos bens se
 dividiram entre os países da América Latina e do Caribe, da África,
 dos Países Árabes, Ásia e do Pacífico.
 
-Disponível em [www.unesco.org.br](http://www.unesco.org.br/)
+IMAGEM1
+*Disponível em www.unesco.org.br (http://www.unesco.org.br/)*
 
 Situação semelhante pôde ser percebida três anos antes, quando em 18
 de maio de 2001, a Unesco proclamou as primeiras 19 “Obras Mestras do
 Patrimônio Oral e Imaterial da Humanidade”. Nessa lista, constavam os
 seguintes bens:
 
-1.  A língua, as danças e a música de Gafuna (Belize);
+>1.  A língua, as danças e a música de Gafuna (Belize);
 
-2.  O carnaval Oruro (Bolívia);
+>2.  O carnaval Oruro (Bolívia);
 
-3.  O espaço cultural da Fraternidade do Espírito Santo de Congos de
+>3.  O espaço cultural da Fraternidade do Espírito Santo de Congos de
 Villa Mella (República Dominicana);
 
-4.  O patrimônio oral e as manifestações culturais do povo Zapara
+>4.  O patrimônio oral e as manifestações culturais do povo Zapara
 (Equador e Peru);
 
-5.  O patrimônio oral de Gelede (Benin);
+>5.  O patrimônio oral de Gelede (Benin);
 
-6.  A música de trombetas transversais da comunidade Tagbana (Costa do
+>6.  A música de trombetas transversais da comunidade Tagbana (Costa do
 Marfim);
 
-7.  O espaço cultural de Sosso Bala em Niagassola (Guiné);
+>7.  O espaço cultural de Sosso Bala em Niagassola (Guiné);
 
-8.  A ópera Kunqu (China);
+>8.  A ópera Kunqu (China);
 
-9.  O teatro Sanscrito de Kutiyattam (Índia);
+>9.  O teatro Sanscrito de Kutiyattam (Índia);
 
-10. O teatro Nôgatu (Japão);
+>10. O teatro Nôgatu (Japão);
 
-11. O ritual real ancestral e a música ritual do lugar santo e de
+>11. O ritual real ancestral e a música ritual do lugar santo e de
 Jongmyo (Coreia);
 
-12. Os cantos Hudhud (Filipinas);
+>12. Os cantos Hudhud (Filipinas);
 
-13. O espaço cultural da região de Boysun (Uzbequistão);
+>13. O espaço cultural da região de Boysun (Uzbequistão);
 
-14. A praça de Fna Djamaa (Marrocos);
+>14. A praça de Fna Djamaa (Marrocos);
 
-15. O Mistério de Elche (Espanha);
+>15. O Mistério de Elche (Espanha);
 
-16. Os cantos polifônicos georgianos (Geórgia);
+>16. Os cantos polifônicos georgianos (Geórgia);
 
-17. A ópera de marionetes da Sicília (Itália);
+>17. A ópera de marionetes da Sicília (Itália);
 
-18. A fabricação artesanal de crucifixos e seu simbolismo na Lituânia
+>18. A fabricação artesanal de crucifixos e seu simbolismo na Lituânia
 (Lituânia);
 
-19. O espaço cultural e a cultura oral da Rússia (Rússia).
+>19. O espaço cultural e a cultura oral da Rússia (Rússia).
 
 Chama-nos a atenção o fato de que entre esses bens imateriais apenas
 15,78% correspondam ao território europeu. Contudo, não podemos
 afirmar que os bens registrados estejam vinculados apenas às
 “tradições populares” ou às práticas restritas ao “povo”. O
 acautelamento de algumas técnicas orientais no feitio de objetos
-(como espadas) não se restringe aos segmentos populares ou às co-
-munidades menos favorecidas.
+(como espadas) não se restringe aos segmentos populares ou às comunidades menos favorecidas.
 
 Em 2005, observamos certo crescimento do número de bens imateriais
-europeus reconhecidos pela Unesco, mas apenas oito bens foram procla-
-mados, atingindo 18,60% do total. Notavelmente, entre 2001 e 2005, a
+europeus reconhecidos pela Unesco, mas apenas oito bens foram proclamados, atingindo 18,60% do total. Notavelmente, entre 2001 e 2005, a
 América do Norte continuou sem ter reconhecido nenhum bem patrimonial
 intangível. Qual a explicação para esse desinteresse dos
 estadunidenses em relação aos seus possíveis bens imateriais? As
@@ -1103,31 +1064,29 @@ proclamados em 2005, na “Lista das Obras-Mestras do Patrimônio Oral
 e Imaterial da Humanidade”, foram arrolados oito pertencentes à
 América Latina e ao Caribe:
 
-1.  O samba de roda do Recôncavo Baiano (Brasil);
+>1.  O samba de roda do Recôncavo Baiano (Brasil);
 
-2.  O espaço cultural de San Basílio (Colômbia);
+>2.  O espaço cultural de San Basílio (Colômbia);
 
-3.  Tradições pastoris e carros de boi (Costa Rica);
+>3.  Tradições pastoris e carros de boi (Costa Rica);
 
-4.  Dança tradicional Cocolo (República Dominicana);
+>4.  Dança tradicional Cocolo (República Dominicana);
 
-5.  Dança teatral Rabinal Achi (Guatemala);
+>5.  Dança teatral Rabinal Achi (Guatemala);
 
-6.  2001: “La lengua, la danza y la música de los garifunas”
+>6.  2001: “La lengua, la danza y la música de los garifunas”
 (Guatemala);
 
-7.  El Gueguense (Nicarágua);
+>7.  El Gueguense (Nicarágua);
 
-8.  Arte têxtil Taquile (Peru).
+>8.  Arte têxtil Taquile (Peru).
 
 Como podemos notar no mapeamento realizado pela própria Unesco, a
 maioria dos bens intangíveis reconhecidos na listagem efetuada no
 ano de 2005 remonta ao continente africano e asiático:
 
-![](media/image8.png){width="2.5908202099737534in"
-height="1.5733333333333333in"}
-
-Disponível em [www.unesco.org.br](http://www.unesco.org.br/)
+IMAGEM2
+*Disponível em www.unesco.org.br (http://www.unesco.org.br/)*
 
 A África, os países árabes, a Ásia e os países do Pacífico reúnem
 maior número de tradições e expressões, artes tradicionais, práticas
@@ -1156,8 +1115,7 @@ os jogos de poder desses segmentos.
 
 Além disso, como alertamos no volume “Patrimônio Histórico e
 Cultural” (2006, p. 10), os valores patrimoniais e os juízos de
-preservação se alteram com o passar do tempo, pois ambos são cons-
-truídos social e historicamente. Se o indivíduo no decorrer de sua
+preservação se alteram com o passar do tempo, pois ambos são construídos social e historicamente. Se o indivíduo no decorrer de sua
 vida passa por transformações biológicas, culturais e sociais que o
 levam a vincular-se a grupos com diferentes faixas etárias, distintas
 categorias profissionais ou díspares opções religiosas; de fato, as
@@ -1183,8 +1141,7 @@ dispor sobre a “fixação de datas comemorativas de alta significação
 para os diferentes segmentos étnicos nacionais”.
 
 Uma das conquistas mais recentes nesse campo diz respeito à
-implementação da legislação res-
-ponsável pelo “Plano Nacional de Cultura”, garantida pela Emenda
+implementação da legislação responsável pelo “Plano Nacional de Cultura”, garantida pela Emenda
 Constitucional nº 48 (2005), segundo a qual deve ser privilegiada a
 “integração das ações do poder público” em “defesa e valorização do
 patrimônio cultural brasileiro”; a “produção, promoção e difusão de
@@ -1198,16 +1155,14 @@ de, junto aos poderes estaduais, federais e municipais, “proteger os
 documentos, as obras e outros bens de valor histórico, artístico e
 cultural, os monumentos, as paisagens naturais notáveis e os sítios
 arqueológicos”; e ainda “impedir a evasão, a destruição e a
-descaracterização de obras de arte e de outros bens de valor histó-
-rico, artístico ou cultural” e “proporcionar os meios de acesso à
+descaracterização de obras de arte e de outros bens de valor histórico, artístico ou cultural” e “proporcionar os meios de acesso à
 cultura, à educação e à ciência”. Nesse sentido, o texto explicitava
 que cabia aos municípios (artigo 30) legislar em favor dos “programas
 de educação infantil e de ensino fundamental” (cf. Emenda
 Constitucional nº 53, de 2006) e “promover a proteção do patrimônio
 histórico-cultural local, observada a legislação e a ação
 fiscalizadora federal e estadual”. Por fim, o artigo 216 ampliou o
-conceito e os meios de proteção ao patrimônio cultural brasi-
-leiro, no que se referem aos “bens de natureza material e imaterial,
+conceito e os meios de proteção ao patrimônio cultural brasileiro, no que se referem aos “bens de natureza material e imaterial,
 tomados individualmente ou em conjunto, portadores de referência à
 identidade, à ação, à memória dos diferentes grupos formadores da
 sociedade brasileira”. Mas em termos práticos, quais as medidas
@@ -1251,11 +1206,9 @@ especial os imobiliários. Se, por um lado, o Iphan assume um papel
 primordial nos processos de preservação do patrimônio, uma vez que
 estabelece, com base nos documentos internacionais e nacionais,
 balizas e padrões normativos para tais encaminhamentos, por outro,
-confronta-se com questões específicas contempladas pela implemen-
-tação de legislação complementar (municipais ou estaduais) que visa à
+confronta-se com questões específicas contempladas pela implementação de legislação complementar (municipais ou estaduais) que visa à
 resolução de impasses e empenhos particulares atinentes a instâncias
-decisórias de poder que definem os projetos e progra-
-mas culturais a serem desenvolvidos ou não pelas autoridades locais.
+decisórias de poder que definem os projetos e programas culturais a serem desenvolvidos ou não pelas autoridades locais.
 
 Em consonância com as discussões internacionais e a Constituição do
 Brasil, o Iphan vem atuando mediante a distinção e preservação dos
@@ -1300,13 +1253,12 @@ do século XX, ainda é recente e vem sendo aplicado nos planos
 diretores das cidades contemporâneas. As matrizes teóricas da gestão
 integrada se assentam em duas perspectivas basais:
 
-A da conservação integrada, formulada inicialmente pelo urbanismo
+>A da conservação integrada, formulada inicialmente pelo urbanismo
 progressista italiano dos
 anos 1960/70, e que encontrou sua expressão maior no Manifesto de
 Amsterdã, de 1975; A do desenvolvimento sustentável, elaborada a
 partir dos preceitos apresentados pela Comissão Mundial sobre Meio
-Ambiente e Desenvolvimento e que levou à Agenda 21 e a seus desdo-
-bramentos urbanos (cf. Jokilehto, 2002, p. 2).
+Ambiente e Desenvolvimento e que levou à Agenda 21 e a seus desdobramentos urbanos (cf. Jokilehto, 2002, p. 2).
 
 Tais aportes evidenciaram o valor fundamental da integração das
 políticas públicas e o investimento no planejamento multidimensional
@@ -1315,8 +1267,7 @@ preservação ambiental e patrimonial.
 
 A conservação integrada mostra-se como um princípio crucial para o
 desenvolvimento sustentável, *a priori* porque restabelece a ideia
-de que os lugares podem ser interpretados como artefatos his-
-tórico-culturais que garantem elos de ligação entre as gerações. Sob
+de que os lugares podem ser interpretados como artefatos histórico-culturais que garantem elos de ligação entre as gerações. Sob
 essa ótica, “a cultura aparece como uma dimensão de mesma importância
 que a economia e a política em qualquer estratégia de implantação de
 políticas de desenvolvimento sustentável” (cf. Jokilehto, 2002, p.
@@ -1336,7 +1287,7 @@ usufruto massificado do espaço e do meio ambiente (Pelegrini, 2006).
 Não por acaso, discutem-se as possibilidades de integração das
 políticas públicas, o fomento do investimento público e privado em
 programas de novos usos de bens patrimoniais e sua integração nos
-circuitos culturais e na dinâmica sócioeconômica das comunidades
+circuitos culturais e na dinâmica socioeconômica das comunidades
 locais.
 
 #O registro dos bens imateriais brasileiros
@@ -1345,43 +1296,43 @@ Os bens imateriais congregados por categoria foram gravados nos Livros
 de Tombo mediante a apreciação de práticas e manifestações sociais,
 subdividas em:
 
-1.  Rituais e festas que abalizam as vivências coletivas e outras
+>1.  Rituais e festas que abalizam as vivências coletivas e outras
 práticas da vida social, como religiosidades e entretenimento;
 
-2.  Manifestações artísticas em geral que envolvem linguagens, danças
+>2.  Manifestações artísticas em geral que envolvem linguagens, danças
 e ritmos;
 
-3.  Lugares onde são reproduzidas práticas culturais coletivas, como
+>3.  Lugares onde são reproduzidas práticas culturais coletivas, como
 mercados, feiras, santuários ou praças;
 
-4.  Modos de fazer e conhecimentos radicados no cotidiano das
+>4.  Modos de fazer e conhecimentos radicados no cotidiano das
 comunidades.
 
 Já estão registrados como Patrimônio Imaterial os seguintes bens
 brasileiros:
 
-1.  Ofício das Paneleiras de Goiabeiras (dez./2002);
+>1.  Ofício das Paneleiras de Goiabeiras (dez./2002);
 
-2.  Arte Kusiwa dos Índios Wajãpi (dez./2002);
+>2.  Arte Kusiwa dos Índios Wajãpi (dez./2002);
 
-3.  Samba de roda do Recôncavo Baiano (out./ 2004);
+>3.  Samba de roda do Recôncavo Baiano (out./ 2004);
 
-4.  Modo de fazer de Viola-de-cocho (jan./2005);
+>4.  Modo de fazer de Viola-de-cocho (jan./2005);
 
-5.  Ofício das baianas de acarajé (jan./2005);
+>5.  Ofício das baianas de acarajé (jan./2005);
 
-6.  Círio de Nossa Senhora de Nazaré (out./2005);
+>6.  Círio de Nossa Senhora de Nazaré (out./2005);
 
-7.  Jongo no Sudeste (dez./2005);
+>7.  Jongo no Sudeste (dez./2005);
 
-8.  Cachoeira de Iauaretê – lugar sagrado dos povos indígenas dos Rios
+>8.  Cachoeira de Iauaretê – lugar sagrado dos povos indígenas dos Rios
 Uaupés e Papuri (out./2006);
 
-9.  Feira de Caruaru (dez./2006);
+>9.  Feira de Caruaru (dez./2006);
 
-10\. Frevo (dez./2006);
+>10. Frevo (dez./2006);
 
-11. Tambor de Crioula do Maranhão (jun./2007)
+>11. Tambor de Crioula do Maranhão (jun./2007)
 
 Outros processos concernentes ao registro de bens imateriais estão em
 fase adiantada como é o caso dos queijos artesanais e dos cantos
@@ -1390,8 +1341,7 @@ sinos nas cidades históricas mineiras, do teatro popular de bonecos
 (Mamulengo), da Feira de São Joaquim de Salvador (BA). Além disso,
 cerca de 29 inventários se encontram em andamento. Entre eles,
 destacamos: o do tacacá (PA), o da cerâmica candeal (Minas Gerais), o
-dos bois-
-bumbás Garantido e Caprichoso (PA) e o do Museu Aberto do
+dos bois-bumbás Garantido e Caprichoso (PA) e o do Museu Aberto do
 Descobrimento (BA).
 
 Os processos de registro dos bens culturais de natureza intangível
@@ -1414,8 +1364,7 @@ fonográficas ou fílmicas, desenhos, vídeos, entre outras.
 Convém destacarmos que o mero registro do bem de natureza material ou
 imaterial não assegura a sua preservação, mas sim, a adoção de uma
 série de medidas que viabilizem um plano efetivo de salvaguarda. Se
-tomarmos alguns exemplos desse pro-
-cesso, talvez possamos exemplificar com maior clareza do que se
+tomarmos alguns exemplos desse processo, talvez possamos exemplificar com maior clareza do que se
 trata.
 
 A fabricação artesanal de recipientes de barro, registrado no Livro de
@@ -1436,13 +1385,10 @@ medidas que visam à sustentabilidade ambiental desse ofício. Por
 meio da educação patrimonial e ambiental, as artesãs são
 conscientizadas de que a continuidade desse ofício depende da
 preservação dos insumos provenientes do meio ambiente, ou seja, do
-barro extraído do Vale do Mulembá e do tanino, extraído do mangue-
-zal, e empregado na coloração das panelas de barro.
+barro extraído do Vale do Mulembá e do tanino, extraído do manguezal, e empregado na coloração das panelas de barro.
 
-![](media/image9.png){width="3.5443022747156605in"
-height="1.1399989063867018in"}
-
-Disponível em [www.unesco.org.br](http://www.unesco.org.br/)
+IMAGEM3
+*Disponível em www.unesco.org.br (http://www.unesco.org.br/)*
 
 Algumas das paneleiras oferecem palestras e oficinas de trabalho nos
 seus próprios galpões. Nessa ocasião, elas têm a oportunidade de
@@ -1459,7 +1405,6 @@ Os dados fornecidos pela Associação das Paneleiras de Goiabeiras
 (APG) revelam que, na atualidade, os artefatos são comercializados
 no Brasil (São Paulo, Rio de Janeiro, Pará, Rio Grande do Sul,
 Rondônia, entre outros) e no exterior (Austrália,
-
 Estados Unidos e França) e possuem um selo de controle de qualidade.
 
 Como podemos observar, a APG atua como uma espécie de cooperativa e
@@ -1483,8 +1428,7 @@ configura-se como uma das referências da musicalidade nacional. Suas
 particularidades envolvem a formulação de um plano de salvaguarda,
 assentado nas ações dispostas à transmissão de conhecimentos
 tradicionais, relativos ao saber fazer e à execução do marchete, e
-também no arranjo for-
-mal de uma entidade que represente os artesãos e facilite a autogestão
+também no arranjo formal de uma entidade que represente os artesãos e facilite a autogestão
 dos seus projetos. Somadas a essas medidas, ainda observamos a difusão
 de sua musicalidade por meio de “gravações” e do agenciamento de
 apresentações dos grupos de samba de roda, entre outras atividades de
@@ -1515,8 +1459,7 @@ pelo respeito às suas visões de mundo, às formas de organização
 social e à cultura material dela subjacente.
 
 Não podemos negligenciar que os estudos de sistemas culinários e seus
-derivados integram o inventariamento de comidas típicas de determina-
-das regiões do país. O acarajé, a tapioca, o pato no tucupi, a farinha
+derivados integram o inventariamento de comidas típicas de determinadas regiões do país. O acarajé, a tapioca, o pato no tucupi, a farinha
 de mandioca, entre tantos outros pratos, estão sendo alvo de
 pesquisadores interessados em desvelar os costumes e a culinária
 regional. Lamentavelmente, os sistemas de alimentação ainda são
@@ -1550,12 +1493,10 @@ como de modo informal no quotidiano.
 
 Certo é que o registro dos bens não assegura a transmissão dos saberes
 e das tradições, mas oferece visibilidade para manifestações
-regionais. O estímulo à candidatura de outros bens materiais ou ima-
-teriais deve prever a implementação de planos de salvaguarda
+regionais. O estímulo à candidatura de outros bens materiais ou imateriais deve prever a implementação de planos de salvaguarda
 destinados à difusão e ao incentivo às práticas culturais. Na verdade,
 os livros de registro contemplam uma estratégia cultivada pelo poeta
-Mário de Andrade (1893-1945), quando ele se arvo-
-rou à responsabilidade e ao prazer de realizar uma “expedição
+Mário de Andrade (1893-1945), quando ele se arvorou à responsabilidade e ao prazer de realizar uma “expedição
 folclórica” na década de 1930, com a finalidade de catalogar
 expressões populares brasileiras. Essa iniciativa, efetivamente,
 tornou-se o alicerce de futuras políticas de preservação, pois não é
@@ -1566,8 +1507,7 @@ formas tradicionais de manifestação artística ou ritual, cantos,
 fazeres e conhecimentos culinários e medicinais populares – vêm
 oferecendo visibilidade à riqueza e pluralidade do patrimônio cultural
 brasileiro, em suas distintas dimensões. As expressões culturais
-constituem um dos mais intensos exemplos da criatividade e da per-
-sistência das tradições das diversas etnias que se entrecruzaram e
+constituem um dos mais intensos exemplos da criatividade e da persistência das tradições das diversas etnias que se entrecruzaram e
 formaram a nação brasileira.
 
 #A religiosidade com o fenômeno cultural
@@ -1583,8 +1523,7 @@ desenvolveu a fala e há estudos recentes, na área de Biologia, que
 tentam mostrar que os papagaios não falam aleatoriamente. O que
 temos de concreto são as imagens nas cavernas. Elas são uma
 linguagem que outros animais não desenvolveram e, segundo boa parte
-dos estu-
-diosos, essas imagens não apenas retratam o mundo, mas tentam
+dos estudiosos, essas imagens não apenas retratam o mundo, mas tentam
 intervir nele. Uma imagem de um animal sendo caçado ou de um grupo de
 pessoas que dança não parece apenas descrever eventos (a caçada e a
 festa), mas a intervir para que o animal seja caçado e que a dança
@@ -1634,8 +1573,7 @@ institucional. Assim, uma procissão do Senhor Morto é considerada
 parte das práticas da Igreja Católica, oferendas a Iemanjá seriam
 parte da Umbanda, enquanto uma Marcha com Jesus uma manifestação
 evangélica. Do ponto de vista dos organizadores dessas atividades,
-essas definições não estão incorretas. Contudo, em termos antro-
-pológicos, cada uma dessas práticas tem significações muito variadas
+essas definições não estão incorretas. Contudo, em termos antropológicos, cada uma dessas práticas tem significações muito variadas
 e que fogem do controle institucional e dos significados teológicos
 das denominações. Isso é importante, para podermos entender a
 dinâmica das práticas culturais imateriais religiosas. Todas são
@@ -1647,11 +1585,9 @@ Um exemplo permitirá observar essa riqueza. As procissões marítimas
 brasileiras em honra de Nossa Senhora, tratadas em detalhe mais
 adiante, têm origens muito longínquas e variadas. Já há milênios, no
 Mediterrâneo antigo, faziam-se procissões marítimas em honra de
-divindades femininas. Quando o Cristianismo dominou o cenário, as pro-
-cissões tiveram continuidade, mas já assimiladas tanto à teologia como
+divindades femininas. Quando o Cristianismo dominou o cenário, as procissões tiveram continuidade, mas já assimiladas tanto à teologia como
 à ritualidade cristã. As divindades pagãs foram substituídas por
-Maria, Mãe de Deus. Os oficiantes se tornaram os sacerdotes cató-
-licos. Em que medida as pessoas entendiam essas
+Maria, Mãe de Deus. Os oficiantes se tornaram os sacerdotes católicos. Em que medida as pessoas entendiam essas
 procissões à luz da doutrina, ou davam continuidade a rituais de
 oferenda ao mar que pouco tinham a ver com Maria? Aportadas tais
 práticas ao continente sul-americano, encontraram aqui ainda outras
@@ -1689,8 +1625,7 @@ sociais em jogo.
 
 No caldeirão brasileiro, talvez a diversidade religiosa seja o aspecto
 mais significativo e que, por isso mesmo, tem merecido atenção, quando
-se trata do patrimônio cultural imaterial. Neste capítulo, tra-
-taremos de duas festas ligadas ao mar, mas convém, antes disso,
+se trata do patrimônio cultural imaterial. Neste capítulo, trataremos de duas festas ligadas ao mar, mas convém, antes disso,
 recordar a significação dessa diversidade como tesouro brasileiro.
 No catálogo das festividades religiosas, não se pode esquecer de que
 comunidades brasileiras preservam e recriam uma infinidade de
@@ -1725,8 +1660,7 @@ português medieval e se consubstanciam em manifestações rituais
 coletivas, nas quais se
 mesclam signos do sagrado e do profano e se fundem ações associadas
 ao espaço público e privado. Em ambos os casos, essas práticas
-remontam a práticas milenares, muito anteriores mesmo ao surgi-
-mento do Cristianismo. Essas características são capazes de nos
+remontam a práticas milenares, muito anteriores mesmo ao surgimento do Cristianismo. Essas características são capazes de nos
 revelar particularidades das identidades étnicas e tradições
 regionais seculares.
 
@@ -1741,22 +1675,18 @@ no processo nº 01450.01.0103322004-07 dos bens culturais imateriais
 (2004, p.
 
 3\) e na certidão conferida pelo Iphan (2004, p. 12), atestam que a
-devoção à Nossa Senhora de Nazaré remonta à região da Estremadura portu-
-guesa, em Nazaré, ao norte de Portugal, cujas origens conjugam tradições
+devoção à Nossa Senhora de Nazaré remonta à região da Estremadura portuguesa, em Nazaré, ao norte de Portugal, cujas origens conjugam tradições
 medievais manifestas por meio de procissões e representações dos embates
 contra os mouros. Alguns aspectos são ainda mais antigos, provenientes
 de cultos celtas e romanos, como o pagamento de promessas.
 
-![](media/image10.png){width="1.7816305774278216in"
-height="1.1799989063867016in"}
-
-Procissão do Círio de Nazaré Disponível em
-[www.belem.pa.gov.br](http://www.belem.pa.gov.br/)
+IMAGEM4
+*Procissão do Círio de Nazaré Disponível em
+www.belem.pa.gov.br (http://www.belem.pa.gov.br/)*
 
 A historiografia, que trata das manifestações do Círio no Brasil,
 assinala que a primeira procissão realizada por mando de Francisco
-de Souza Coutinho, então governador do Grão Pará e Rio Negro, ocor-
-reu em 8/9/1793. Aliás, como salientou Stuart B. Schwartz, no artigo
+de Souza Coutinho, então governador do Grão Pará e Rio Negro, ocorreu em 8/9/1793. Aliás, como salientou Stuart B. Schwartz, no artigo
 *“*The King’s Processions: Municipal and Royal Authority and the
 Hierarchies of Power in Colonial Salvador” (2004, pp. 7-8), era
 costume no Brasil colonial a realização de cerimônias públicas,
@@ -1768,8 +1698,7 @@ Normalmente, tais eventos encetavam disputas e geravam
 desentendimentos entre as autoridades políticas e o clero, uma vez que
 se prestavam a dar visibilidade aos poderes instituídos e aos papéis
 sociais estabelecidos. A posição ocupada por um fidalgo ou uma pessoa
-do povo era distintiva do *status* e do pres-
-tígio de cada indivíduo na sociedade colonial. Por essa razão, a
+do povo era distintiva do *status* e do prestígio de cada indivíduo na sociedade colonial. Por essa razão, a
 primeira romaria “oficializada” pelas autoridades de Belém contou
 com o “acompanhamento de tropas de infantaria e cavalaria”, “membros
 da câmara” da cidade, além da Baronesa de Belém, dos fidalgos, dos
@@ -1792,9 +1721,7 @@ abrigar a Nossa Senhora de Nazaré e inúmeros relatos passaram a
 constatar os seus milagres.
 
 A realização do Círio em Belém do Pará, portanto, atualiza o “mito
-fundador” do culto à Nossa
-
-Senhora, comove a população local, atrai pessoas de várias partes do
+fundador” do culto à Nossa Senhora, comove a população local, atrai pessoas de várias partes do
 país e gera a reprodução do ritual em escalas menores e privadas entre
 os paraenses que vivem em outras localidades do país. A procissão
 nos seus primórdios realizava-se da “cidade para o interior, uma vez
@@ -1808,10 +1735,9 @@ Estado, e agregou novos elementos como o “Círio Fluvial” – inserção
 que acabou ratificando os vínculos entre a “religiosidade dos povos da
 região amazônica” e os “modos de viver da população local”.
 
-![](media/image11.png){width="1.9666633858267717in" height="1.18in"}
-
-Círio Fluvial – Disponível em
-[www.belem.pa.gov.br](http://www.belem.pa.gov.br/)
+IMAGEM5
+*Círio Fluvial – Disponível em
+www.belem.pa.gov.br (http://www.belem.pa.gov.br/)*
 
 Além disso, tornou-se um evento do chamado turismo religioso que gera
 divisas para o Estado do Pará e garante a sobrevivência da população
@@ -1842,8 +1768,7 @@ núcleo central dessa procissão.
 
 As memórias e as práticas coletivas e individuais relacionadas às
 distintas etnias e aos sincretismos religiosos do Círio de Nazaré
-apresentam similaridades com a Festa de Nossa Senhora dos Nave-
-gantes, realizada em Porto Alegre (Rio Grande do Sul), em Laguna
+apresentam similaridades com a Festa de Nossa Senhora dos Navegantes, realizada em Porto Alegre (Rio Grande do Sul), em Laguna
 (Santa Catarina), em Boa Esperança do Sul, na Ilha do Mel, em
 Paranaguá, em Coronel Domingos Soares, em Pato Bragado e em
 Itaipulândia (Paraná), entre outras localidades. A designação Nossa
@@ -1857,22 +1782,19 @@ muito antigas em todo o Mediterrâneo e as antigas procissões pagãs
 foram revestidas de um verniz cristão, com a associação da Virgem à
 antiga divindade Salácia, esposa do deus Netuno. Durante a Idade
 Média, na Cristandade, o Mediterrâneo viu florescer as procissões
-marítimas em honra à *Madonna dei*
-
-*marinai*. As tradições portuguesas, portanto, ligamse a práticas
+marítimas em honra à *Madonna dei marinai*. As tradições portuguesas, portanto, ligam-se a práticas
 milenares.
 
 Naturalmente, nas celebrações faz-se menção à oração dedicada para à
 Santa e se retomam os seguintes clamores:
 
-\[...\] Virgem Maria, Senhora dos Navegantes, minha vida é uma
+>[...] Virgem Maria, Senhora dos Navegantes, minha vida é uma
 travessia de um mar turbulento. As tentações, os fracassos e as
 desilusões são ondas impetuosas que ameaçam afundar minha frágil
 embarcação no abismo do desânimo e do desespero.
 
-Nossa Senhora dos Navegantes, nas horas de perigo eu penso em vós. O
-medo desaparece, o ânimo, a disposição de lutar e de vencer fortale-
-cem-me \[...\].
+>Nossa Senhora dos Navegantes, nas horas de perigo eu penso em vós. O
+medo desaparece, o ânimo, a disposição de lutar e de vencer fortalecem-me.
 
 Tal prece confortava os navegadores que pediam a proteção de Nossa
 Senhora, confiantes num retorno tranquilo ao local de onde partiram.
@@ -1895,22 +1817,19 @@ realizadas na primeira quinzena do mês de outubro e de fevereiro,
 respectivamente. Elas contam com a queima de fogos de artifício, o
 cortejo fluvial e o arremesso de presentes para a senhora das águas
 (como fitas, perfumes, flores, entre outros objetos). Dessa forma, os
-fiéis reverenciam tanto à santa católica quanto a entidade afro-
-brasileira sintetizada na figura do orixá Iemanjá, evidenciando os
+fiéis reverenciam tanto à santa católica quanto a entidade afro-brasileira sintetizada na figura do orixá Iemanjá, evidenciando os
 traços do sincretismo religioso brasileiro, talvez mais explícitos
 no Norte e Nordeste do país, mas também presentes no Sul. Nesse caso,
 também ao fim da procissão inicia-se a confraternização entre os
 devotos por meio da comensalidade, dos cantos e das danças. No caso de
 Belém, são consumidos pratos como o pato no tucupi, o tacacá e o
 camarão do rio conhecido como pitu. No Sul, além do almoço, dos doces
-e salgados típicos, con-
-somem-se frutas como a melancia, o abacaxi e uma espécie de coquinho
+e salgados típicos, consomem-se frutas como a melancia, o abacaxi e uma espécie de coquinho
 denominado butiá.
 
 Por certo, a teatralização das procissões e a ritualização da
 comensalidade abalizam os ciclos de interação social, caracterizados
-por atitudes cerimoniais, que conjugam a adoração aos santos reve-
-renciados e o entretenimento satisfeito por meio do consumo abastado
+por atitudes cerimoniais, que conjugam a adoração aos santos reverenciados e o entretenimento satisfeito por meio do consumo abastado
 de bebidas e comidas típicas, da apresentação de folguedos e cantorias
 – elementos que tradicionalmente completam um circuito recorrente
 nas festas de santo que articulam as práticas do “rezar”, “comer” e
@@ -1938,8 +1857,7 @@ direção, ratificou a necessidade do desenvolvimento de planos de
 salvaguarda capazes de contemplar medidas que assegurassem a
 “transmissão dos saberes, o estímulo a novos compositores e o apoio ao
 registro fonográfico e audiovisual” desse patrimônio. Além disso,
-salientou que ações contí-
-guas deveriam promover a “difusão” e o “incentivo” de pesquisas sobre
+salientou que ações contíguas deveriam promover a “difusão” e o “incentivo” de pesquisas sobre
 a cultura popular.
 
 O discurso entusiasta de Gilberto Gil, realizado na Casa das Minas (um
@@ -1976,14 +1894,13 @@ preservação de seus bens culturais, de proteção das tradições orais e
 populares. Dessa maneira, os cidadãos envolvidos vão se sentir
 valorizados por meio dos ofícios artesanais, das receitas
 culinárias, das beberagens medicinais e dos saberes de suas
-comunidades e, com certeza, serão motivados a transmitir esses conhe-
-cimentos às próximas gerações.
+comunidades e, com certeza, serão motivados a transmitir esses conhecimentos às próximas gerações.
 
 Maria de Lourdes Parreiras Horta, uma experiente especialista na
 educação patrimonial no Brasil, avalia que essa “prática pedagógica”
 deve partir de alguns preceitos assentados na própria teia histórica
 que envolve cada bem, artefato ou expressão cultural. E ela adverte:
-“\[...\] É preciso apreender a ouvir as coisas, a entender suas
+“[...] É preciso apreender a ouvir as coisas, a entender suas
 lições...” (2005, p. 223-224).
 
 Essa valorização do patrimônio cultural, seja material ou imaterial,
@@ -2013,16 +1930,11 @@ Ernout e A. Meillet (Paris: Klincksieck, 1967).
 As definições da Antropologia estão em *A antropologia
 contemporânea*, de Jean-Marie Auzias (São Paulo: Cultrix, 1978, p.
 11), e *L´Anthropologie*, de Marc Auge e Jean-Paul Colleyn Paris: PUF,
-2004), p.
-
-11. A citação de Pascal Ory vem de *L´Histoire*
-
-*Culturelle* (Paris: PUF, 2004), p. 8. A diferença entre o chimpanzé e
+2004), p. 11. A citação de Pascal Ory vem de *L´Histoire Culturelle* (Paris: PUF, 2004), p. 8. A diferença entre o chimpanzé e
 o ser humano está em *Cultura, um conceito antropológico*, de Roque de
 Barros Laraia (20ª. ed., Rio de Janeiro: Zahar, 2006). A citação de
 Giberto Freyre, vem de *Sociologia*, tomo 1, *Introdução ao estudo dos
-seus princípios*, (3ª. ed., Rio de Janeiro: José Olympio, 1962) p.
-546. A definição de Christoph Brumann está em seu artigo “Writing
+seus princípios*, (3ª. ed., Rio de Janeiro: José Olympio, 1962) p. 546. A definição de Christoph Brumann está em seu artigo “Writing
 Culture: Why a Successful Concept Should not Be Discarded”*, Current
 Anthropology*, 40, Supplement, February 1999, p. S23. A historicidade
 das culturas está bem tratada em *A noção de cultura nas ciências
@@ -2035,28 +1947,22 @@ Marshall Sahlins foi publicada em *Le Nouvel Observateur*, 26 de julho
 de 2007, pp. 78-81.
 
 As discussões sobre identidades e pertencimento estão no livro de
-Pedro Paulo A. Funari, Charles
-
-E. Orser Jr., Solange Nunes de Oliveira Schiavetto, *Identidades,
+Pedro Paulo A. Funari, Charles E. Orser Jr., Solange Nunes de Oliveira Schiavetto, *Identidades,
 discurso e poder: estudos da arqueologia contemporânea* (São Paulo:
 Annablume/Fapesp, 2005); e nas obras de Manuel Castells e Stuart Hall,
-respectivamente, *O poder da identidade* (Rio de
-
-Janeiro: Paz e Terra, 2000) e *A identidade cultural na
+respectivamente, *O poder da identidade* (Rio de Janeiro: Paz e Terra, 2000) e *A identidade cultural na
 pós-modernidade (*Rio de Janeiro: DP&A, 2005). O tema da genética das
 populações está desenvolvido em *Claude Lévi-Strauss*, de Catherine
 Clément (Paris: PUF, 2002) p. 93. Claude Lévi-Strauss trata do valor
 da preservação da diversidade em *Lê regard éloigné* (Paris: Plon,
 1983). A citação do *Capital*, de Karl Marx (1, v. 1) foi retirada do
 livro *Arqueologia*, de Pedro Paulo A Funari (São Paulo: Contexto,
-2003)
-p\. 14. A discussão sobre patrimônio encontra-se em *Patrimônio histórico
+2003) p. 14. A discussão sobre patrimônio encontra-se em *Patrimônio histórico
 e cultural*, de Pedro Paulo A Funari e Sandra Pelegrini (Rio de Janeiro:
 Jorge Zahar, 2006). A citação do artigo de Tolina Loulanski está em
 “Revising the Concept for Cultural Heritage: the Argument for a
 Functional Approach”, *International Journal of Cultural Property*, 13,
-2006,
-p\. 213. A citação de Edward Said vem do seu artigo “Umanesimo”,
+2006, p. 213. A citação de Edward Said vem do seu artigo “Umanesimo”,
 publicado postumamente no *Corriere della Sera*, 7/1/2007, p. 23.
 
 Vale a pena consultar as proposições de Pierre Nora acerca da
@@ -2086,9 +1992,7 @@ Brasília: Departamento do Patrimônio Imaterial/Iphan,
 respectivamente nos anos 2006, 2005 e 2000. Foram citados os cadernos
 *Registro e políticas de salvaguarda para as culturas populares* (Rio
 de Janeiro: Iphan/CNFCP, 2005), organizado por Andréa Falcão, e também
-*Alimentação e cultura popular* (Rio de Janeiro: Funarte/
-
-CNFCP, 2002), editado por José Reginaldo Santos, no qual são
+*Alimentação e cultura popular* (Rio de Janeiro: Funarte/CNFCP, 2002), editado por José Reginaldo Santos, no qual são
 apresentadas reflexões de Elizabete Mendonça e Maria Dina Nogueira
 Pinto sobre as relações entre o patrimônio e os sistemas culinários.
 Questões da educação patrimonial foram contempladas em “Lições das
@@ -2106,18 +2010,14 @@ Alves, no artigo “A festiva devoção no Círio de Nossa Senhora de
 Nazaré” (*Estudos Avançados,* 2005, v. 19, nº 54, pp. 315-332); Renato
 A. Carneiro Jr., na obra *Festas populares do Paraná* (Curitiba:
 Secretaria do Estado da Cultura, 2005); Eidorfe Moreira, em *Visão
-geosocial do Círio* (Belém: Gráfica Universitária, 1971); Sandra C.
+geossocial do Círio* (Belém: Gráfica Universitária, 1971); Sandra C.
 A. Pelegrini, em “A diversidade e os impasses da desmaterialização do
 patrimônio cultural”, integrado aos *Anais – XXIV Simpósio Nacional
-de História – História e multidisciplinaridade: territó-*
-
-*rios e deslocamentos* (São Leopoldo/Rio Grande do Sul: Anpuh –
+de História – História e multidisciplinaridade: territórios e deslocamentos* (São Leopoldo/Rio Grande do Sul: Anpuh –
 Unisinos, 2007), p. 1-8 e por Carolina Chagas, no livro *Nossa
 Senhora* (São Paulo: Publifolha, 2006). As relações entre as
 simbologias do poder e as procissões religiosas manifestas nas
-cerimônias públicas foram pesquisadas por Stuart
-
-B. Schwartz, no texto Ceremonies of Public Authority in a Colonial
+cerimônias públicas foram pesquisadas por Stuart B. Schwartz, no texto Ceremonies of Public Authority in a Colonial
 Capital. The King’s Processions and the Hierarchies of Power in
 Seventeenth Century Salvador, publicado nos *Anais de História de
 Além-Mar* (Lisboa: Centro de História de Além-Mar, 2004), p. 7-27.
@@ -2134,9 +2034,7 @@ entidades afins, consultamos a *Carta de Fortaleza* (1997); *Carta de
 Haia* (1954); *Carta de Veneza* (1964); *Declaração de Amsterdã*
 (1975); *Declaração do México* (1982 e 1985); *ECO-1992; Agenda 21*;
 *Recomendação sobre a Salvaguarda da Cultura Tradicional e Popular*
-(1989); *Nossa Diversidade Criativa* (1996); *Declaração Universal da*
-
-*Unesco sobre a Diversidade Cultural* (2001); *Lista de Obras-Mestras
+(1989); *Nossa Diversidade Criativa* (1996); *Declaração Universal da Unesco sobre a Diversidade Cultural* (2001); *Lista de Obras-Mestras
 do Patrimônio Oral e Imaterial da Humanidade* (2001 e 2005). Além de
 *Declaration Concerning the Intentional Destruction of Cultural
 Heritage* (2003); *Convention on the Protection and Promotion of the
@@ -2160,8 +2058,7 @@ pelas ideias, naturalmente, restringe-se aos autores.
 
 Sou natural de São Paulo – capital, graduei-me em História
 (Unesp/Assis, 1988), obtive o mestrado em História e Sociedade (Unesp,
-1993), doutorado em História Social (USP/2000). Desenvolvi os estu-
-dos de pós-doutorado na Unicamp, entre 2005 e 2006, sob a tutela do
+1993), doutorado em História Social (USP/2000). Desenvolvi os estudos de pós-doutorado na Unicamp, entre 2005 e 2006, sob a tutela do
 Professor Dr. Pedro Paulo Funari. Como docente lotada no Departamento
 de História, da Universidade Estadual de Maringá (UEM), tenho atuado
 desde 1991 no ensino de graduação em História e, a partir do ano
@@ -2208,7 +2105,6 @@ científicos, em revistas acadêmicas brasileiras arbitradas, e mais de
 50, em revistas estrangeiras arbitradas. Publiquei dezenas de livros,
 diversos deles no exterior, como *Global Archaeological Theory* (Nova
 York: Kluwer, 2005). Atuei como professor convidado em diversas
-universidades estrangeiras. Sou estudioso do patri-
-mônio e membro do conselho editorial da revista International Journal
+universidades estrangeiras. Sou estudioso do patrimônio e membro do conselho editorial da revista International Journal
 of Cultural Property, assim como atuante na preservação digital. Meu
-e-mail é <ppfunari@uol.com.br>
+e-mail é <ppfunari@uol.com.br>.
