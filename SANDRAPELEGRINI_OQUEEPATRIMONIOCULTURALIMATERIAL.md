@@ -1944,7 +1944,7 @@ publicada no *Corriere della Sera*, 11/1/2007, p. 27, sobre “Nuove
 identità”. A citação de Warnier está em seu livro *La mondialisation
 de la culture* (Paris: La Découverte, 2004), p. 20. A entrevista de
 Marshall Sahlins foi publicada em *Le Nouvel Observateur*, 26 de julho
-de 2007, pp. 78-81.
+de 2007, p. 78-81.
 
 As discussões sobre identidades e pertencimento estão no livro de
 Pedro Paulo A. Funari, Charles E. Orser Jr., Solange Nunes de Oliveira Schiavetto, *Identidades,
